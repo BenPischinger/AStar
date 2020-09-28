@@ -1,6 +1,6 @@
 # AStar Algorithm
  
-This is a program demonstrating the A* algorithm to find the shortest way through a graph.
+This is a program demonstrating the A* algorithm which finds the shortest/cheapest way through a graph.
 
 First you select a starting point and then hover a target point and the shortest parth between the two will be marked.
 
